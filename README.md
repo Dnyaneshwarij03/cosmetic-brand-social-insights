@@ -52,8 +52,8 @@ Whether you're a **social media manager**, **data analyst**, or **marketing enth
 📍 Suman Ramesh Tulsiani Technical Campus, Pune  
 
 ## 📬 Contact
-- **LinkedIn**: [Your LinkedIn URL]
-- **GitHub Portfolio**: [Your GitHub URL]
+- **LinkedIn**: www.linkedin.com/in/dnyaneshwari-jambukar-005a31246
+
 
 ## 📜 License
 
